@@ -1,0 +1,4 @@
+/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/CMakeFiles/protolib.dir
+/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/CMakeFiles/server.dir
+/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/CMakeFiles/edit_cache.dir
+/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/CMakeFiles/rebuild_cache.dir
