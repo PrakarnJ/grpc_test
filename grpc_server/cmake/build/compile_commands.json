@@ -1,20 +1,20 @@
 [
 {
-  "directory": "/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCARES_STATICLIB -I/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build -I/Users/prakarnj/grpc_ws/src/grpc_server/../protos -isystem /Users/prakarnj/.local/include -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -o CMakeFiles/protolib.dir/hello.pb.cc.o -c /Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/hello.pb.cc",
-  "file": "/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/hello.pb.cc",
+  "directory": "/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCARES_STATICLIB -I/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build -I/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/../protos -isystem /Users/prakarnj/.local/include -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -o CMakeFiles/protolib.dir/hello.pb.cc.o -c /Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build/hello.pb.cc",
+  "file": "/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build/hello.pb.cc",
   "output": "CMakeFiles/protolib.dir/hello.pb.cc.o"
 },
 {
-  "directory": "/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCARES_STATICLIB -I/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build -I/Users/prakarnj/grpc_ws/src/grpc_server/../protos -isystem /Users/prakarnj/.local/include -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -o CMakeFiles/protolib.dir/hello.grpc.pb.cc.o -c /Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/hello.grpc.pb.cc",
-  "file": "/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/hello.grpc.pb.cc",
+  "directory": "/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCARES_STATICLIB -I/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build -I/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/../protos -isystem /Users/prakarnj/.local/include -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -o CMakeFiles/protolib.dir/hello.grpc.pb.cc.o -c /Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build/hello.grpc.pb.cc",
+  "file": "/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build/hello.grpc.pb.cc",
   "output": "CMakeFiles/protolib.dir/hello.grpc.pb.cc.o"
 },
 {
-  "directory": "/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build",
-  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCARES_STATICLIB -I/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build -I/Users/prakarnj/grpc_ws/src/grpc_server/../protos -isystem /Users/prakarnj/.local/include -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -o CMakeFiles/server.dir/src/server.cc.o -c /Users/prakarnj/grpc_ws/src/grpc_server/src/server.cc",
-  "file": "/Users/prakarnj/grpc_ws/src/grpc_server/src/server.cc",
+  "directory": "/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build",
+  "command": "/Library/Developer/CommandLineTools/usr/bin/c++ -DCARES_STATICLIB -I/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build -I/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/../protos -isystem /Users/prakarnj/.local/include -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1 -o CMakeFiles/server.dir/src/server.cc.o -c /Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/src/server.cc",
+  "file": "/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/src/server.cc",
   "output": "CMakeFiles/server.dir/src/server.cc.o"
 }
 ]

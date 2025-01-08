@@ -1,6 +1,6 @@
 CMakeFiles/protolib.dir/hello.pb.cc.o: \
-  /Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/hello.pb.cc \
-  /Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/hello.pb.h \
+  /Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build/hello.pb.cc \
+  /Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build/hello.pb.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/limits \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__assertion_handler \

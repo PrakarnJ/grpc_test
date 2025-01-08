@@ -1,6 +1,6 @@
 CMakeFiles/protolib.dir/hello.grpc.pb.cc.o: \
-  /Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/hello.grpc.pb.cc \
-  /Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/hello.pb.h \
+  /Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build/hello.grpc.pb.cc \
+  /Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build/hello.pb.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/limits \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__assert \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/__assertion_handler \
@@ -1202,7 +1202,7 @@ CMakeFiles/protolib.dir/hello.grpc.pb.cc.o: \
   /Users/prakarnj/.local/include/google/protobuf/map.h \
   /Users/prakarnj/.local/include/google/protobuf/map_type_handler.h \
   /Users/prakarnj/.local/include/google/protobuf/reflection.h \
-  /Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/hello.grpc.pb.h \
+  /Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build/hello.grpc.pb.h \
   /Users/prakarnj/.local/include/grpcpp/generic/async_generic_service.h \
   /Users/prakarnj/.local/include/grpc/support/port_platform.h \
   /Users/prakarnj/.local/include/grpcpp/generic/callback_generic_service.h \

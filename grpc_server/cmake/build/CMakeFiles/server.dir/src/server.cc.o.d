@@ -1,5 +1,5 @@
 CMakeFiles/server.dir/src/server.cc.o: \
-  /Users/prakarnj/grpc_ws/src/grpc_server/src/server.cc \
+  /Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/src/server.cc \
   /Users/prakarnj/.local/include/grpcpp/grpcpp.h \
   /Users/prakarnj/.local/include/grpc/grpc.h \
   /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk/usr/include/c++/v1/stddef.h \
@@ -1234,8 +1234,8 @@ CMakeFiles/server.dir/src/server.cc.o: \
   /Users/prakarnj/.local/include/grpcpp/security/authorization_policy_provider.h \
   /Users/prakarnj/.local/include/grpcpp/server_posix.h \
   /Users/prakarnj/.local/include/grpcpp/version_info.h \
-  /Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/hello.grpc.pb.h \
-  /Users/prakarnj/grpc_ws/src/grpc_server/cmake/build/hello.pb.h \
+  /Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build/hello.grpc.pb.h \
+  /Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build/hello.pb.h \
   /Users/prakarnj/.local/include/google/protobuf/runtime_version.h \
   /Users/prakarnj/.local/include/google/protobuf/io/coded_stream.h \
   /Users/prakarnj/.local/include/google/protobuf/stubs/common.h \

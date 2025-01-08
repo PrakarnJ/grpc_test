@@ -4,7 +4,7 @@
 # compile CXX with /Library/Developer/CommandLineTools/usr/bin/c++
 CXX_DEFINES = -DCARES_STATICLIB
 
-CXX_INCLUDES = -I/Users/prakarnj/grpc_ws/src/grpc_server/cmake/build -I/Users/prakarnj/grpc_ws/src/grpc_server/../protos -isystem /Users/prakarnj/.local/include
+CXX_INCLUDES = -I/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/cmake/build -I/Users/prakarnj/grpc_ws/src/grpc_test/grpc_server/../protos -isystem /Users/prakarnj/.local/include
 
 CXX_FLAGSarm64 = -std=gnu++14 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX15.2.sdk -mmacosx-version-min=15.1
 
