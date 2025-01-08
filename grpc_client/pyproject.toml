@@ -1,0 +1,17 @@
+[project]
+name = "stddesc"
+version = "1.2.9"
+description = "Standard base classes for robot systems"
+authors = [
+    { name = "Prakarn Jaroonsorn", email = "prakarnj@arv.co.th" }
+]
+readme = "README.md"
+dynamic = ["dependencies"]
+
+[tool.setuptools.dynamic]
+dependencies = {file = ["requirements.txt"]}
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
